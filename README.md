@@ -3,6 +3,19 @@ Magento Google Content API for Shopping
 
 Source [http://www.magentocommerce.com/magento-connect/google-content-api-for-shopping.html](http://www.magentocommerce.com/magento-connect/google-content-api-for-shopping.html)
 
+## Installation
+
+To use this extension your Google Account must be configured to allow deprecated authentication mechanisms.
+You can to this by enabling the setting "Allow less secure apps" located in your account settings:
+https://www.google.com/settings/security/lesssecureapps
+
+Another caveat is setting the correct credentials:
+
+Account ID: Merchant Center ID of your merchant center account
+Account Username: your Google account email address (NOT: oAuth Credentials, Merchant Center Users)
+Account Password: your Google account password
+Account Type: Hosted or Google
+
 ## Changes so far ...
 
 - code pool from core to community
