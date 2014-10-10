@@ -11,10 +11,10 @@ https://www.google.com/settings/security/lesssecureapps
 
 Another caveat is setting the correct credentials:
 
-Account ID: Merchant Center ID of your merchant center account
-Account Username: your Google account email address (NOT: oAuth Credentials, Merchant Center Users)
-Account Password: your Google account password
-Account Type: Hosted or Google
+    Account ID: Merchant Center ID of your merchant center account
+    Account Username: your Google account email address (NOT: oAuth Credentials, Merchant Center Users)
+    Account Password: your Google account password
+    Account Type: Hosted or Google
 
 ## Changes so far ...
 
